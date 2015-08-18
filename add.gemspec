@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Sylvia"]
   spec.email         = ["sylviakieha@gmail.com"]
 
-  spec.summary       = spec.description
+  spec.summary       = "a gem that adds numbers"
   spec.description   = "adds numbers"
   spec.homepage      = 'https://github.com/njerrywerry/add'
   spec.license       = "MIT"
