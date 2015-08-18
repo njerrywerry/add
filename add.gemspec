@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Sylvia"]
   spec.email         = ["sylviakieha@gmail.com"]
 
-  spec.summary       = "a gem that adds numbers"
-  spec.description   = "adds numbers"
-  spec.homepage      = 'https://github.com/njerrywerry/add'
+  spec.summary       = %q{a gem that adds numbers}
+  spec.description   = %q{adds numbers}
+  spec.homepage      = "https://github.com/njerrywerry/add"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
