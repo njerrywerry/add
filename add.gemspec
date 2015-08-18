@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = spec.description
   spec.description   = "adds numbers"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = 'https://github.com/njerrywerry/add.git'
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
